@@ -15,7 +15,7 @@
     <div id="Sources">
       <h2>Sources</h2>
       <p id="source-1">
-        Selenium. (n.d.). <em>About Selenium | Selenium</em> <a href="https://www.selenium.dev/about/#:~:text=Selenium%20is%20a%20suite%20of%20tools%20for%20automating%20web%20browsers.">https://www.selenium.dev/about/</a>
+        1. Selenium. (n.d.). <em>About Selenium | Selenium</em> <a href="https://www.selenium.dev/about/#:~:text=Selenium%20is%20a%20suite%20of%20tools%20for%20automating%20web%20browsers.">https://www.selenium.dev/about/</a>
       </p>
     </div>
   </main>
