@@ -43,7 +43,7 @@
         </p>
         <p>
             Please execute the code found in <code>lesson_03.py</code> to see how
-            we can navigate to different websites
+            you can navigate to different websites
             and perform normal navigation actions on them.
         </p>
     </main>
