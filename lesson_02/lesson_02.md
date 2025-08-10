@@ -2,7 +2,7 @@
     <main>
         <h1>Lesson 02 - Drivers</h1>
         <p>
-            Now before we begin writing code to automate the browser, we need to learn what a <strong><em>driver</em></strong> is.
+            Before we begin writing code to automate the browser, we need to learn what a <strong><em>driver</em></strong> is.
         </p>
         <h2>What is a Driver?</h2>
         <p>
